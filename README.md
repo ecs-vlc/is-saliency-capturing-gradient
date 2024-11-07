@@ -60,7 +60,7 @@ To create a single csv file from every model analysed:
 
 Use the `attribution_analysis.ipynb` notebook to load and filter the `all_results.csv` file.
 
-`all_results.csv contains the results for all the experiments systematically. Following table explains what each column represents.
+`all_results.csv` contains the results for all the experiments systematically. Following table explains what each column represents.
 
 | Header  | What it is about? |
 | ------------- | ------------- |
